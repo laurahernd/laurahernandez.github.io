@@ -1,2 +1,2 @@
-# laurahernandez.github.io
+# Laura Hernández
 Personal and Academic Website
